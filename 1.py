@@ -2,8 +2,8 @@
 
 # for single number and its conversions
 
-num = int(input("Enter your number or expression here: \n"))
-num = eval(num)
+num100 = input("Enter your number or expression here: \n")
+num = eval(num100)
 base = []
 for j in range(2,63):
     base.append(j)
