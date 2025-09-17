@@ -1,7 +1,7 @@
 # for multiple sets seperated by space where each set is either number itself 
 # or it is string which is evaluated to get a number and then that number conversion
 
-# this is after changin 
+# this is after changing
 
 
 numo = input("Enter sets seperated by space where each set is number or string evaluated to number : \n")
